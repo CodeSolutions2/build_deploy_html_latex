@@ -7,5 +7,3 @@ The purpose of this repository is to build and deploy a webapp for Latex writing
 ![alt_text](latex_deployment.png)
 
 
-## In progress
-- Make changes to the index.tex document using the webapp
